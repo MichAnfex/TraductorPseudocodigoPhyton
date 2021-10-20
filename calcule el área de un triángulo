@@ -1,0 +1,11 @@
+Inicio
+Variables Altura, Base, Area.
+ 
+Imprimir "Introduce la base y la altura: "
+Leer base y altura.
+
+Area= (base*altura)/2.
+
+Imprimir "El area es: ", Area
+
+Fin.
